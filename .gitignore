@@ -1,0 +1,5 @@
+node_modules/
+dist/
+*.local
+bundle.tar.gz
+bundle.tar.gz.b64
