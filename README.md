@@ -2,9 +2,11 @@
 
 A weather dashboard powered by the free Open-Meteo API (no API key required): search any city with autocomplete, use your geolocation, and see current conditions, a 24-hour temperature curve and a 7-day forecast.
 
-> **Live demo:** https://sahab-weather.vercel.app (link updated after deployment)
+> **Live demo:** https://sahab-weather-six.vercel.app
 >
 > All data shown is live from Open-Meteo - no demo data, no mock backend.
+
+![Sahab weather dashboard](screenshots/dashboard.png)
 
 ## Features
 
